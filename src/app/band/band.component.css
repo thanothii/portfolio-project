@@ -1,0 +1,54 @@
+.info-section {
+    font-family:'Roboto', sans serif; 
+    width:80%; 
+    margin:0 auto; 
+    padding:60px; 
+    font-size:18px;
+}
+
+.info-section h2 {
+    text-align: center; 
+}
+
+.info-section p {
+    text-align: justify; 
+}
+
+.band-members {
+    width:80%;
+    margin: 0 auto;
+    padding-top: 60px;
+}
+
+.member {
+    display:inline-block;
+}
+
+.tour-section {
+    background-color: black; 
+    color:white; 
+    text-align: center;
+}
+
+.tour-section h2 {
+    padding: 40px 0px;
+}
+
+.contact-section {
+    width:80%;
+    font-size: 18px;
+    text-align: center;
+    padding-bottom: 80px;
+}
+
+.contact-section h2 {
+    padding: 40px 0px;
+}
+
+.margin-20 {
+    margin: 20px;
+}
+
+.nopadding {
+    padding: 0 !important;
+ }

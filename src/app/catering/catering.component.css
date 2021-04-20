@@ -1,0 +1,33 @@
+.nav-bar {
+    width:90%;
+    margin:60px auto 0px;
+    font-size: 30px;
+    font-family: "Times New Roman", Georgia, Serif;
+}
+
+.left-menu {
+    display: inline-block;
+    width:70%;
+}
+
+.left-menu a{
+    color:black;
+}
+
+.left-menu a:hover{
+    text-decoration: none;
+}
+
+.right-menu {
+    display: inline-block;
+}
+
+.right-menu a {
+    color:black;
+    padding: 20px;
+}
+
+.right-menu a:hover{
+    text-decoration: none;
+}
+
